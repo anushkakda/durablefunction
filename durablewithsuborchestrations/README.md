@@ -2,7 +2,7 @@
 
 - Here we can directly call another Orchestration function from one using the **CallSubOrchestratorAsync** method
 
-- In this example, I used the same default orchestion functions and the called the Function2 orchestrator in Function1
+- In this example, I used the same default orchestration functions and then called the Function2 orchestrator in Function1.
 
 <br />
 
